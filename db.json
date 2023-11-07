@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "Floridina",
+      "price": 3500
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 32000
+    },
+    {
+      "title": "Testing 123",
+      "price": "9088",
+      "id": 5
+    },
+    {
+      "title": "Teh Pucuk Harum",
+      "price": "3000",
+      "id": 6
+    }
+  ]
+}
